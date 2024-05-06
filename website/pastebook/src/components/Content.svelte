@@ -131,7 +131,7 @@
 <style lang="scss">
   contentcontainer {
     display: block;
-    background-color: #eeeeee;
+    background-color: #CB56C9;
     width: calc(100% - 20px);
     margin: 10px;
     border-radius: 20px;
