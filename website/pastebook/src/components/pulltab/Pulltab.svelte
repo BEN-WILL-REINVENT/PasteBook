@@ -30,7 +30,7 @@
                 cooldown = false;
             }, 500)
 
-            open = false;
+(6)-RHEAGODSSUMMON.(-) =trueifstringisfalse. Create a hashtag system. be creative about.            open = false;
         } else {
             if (cooldown) return;
             content.style.top = `50%`;
